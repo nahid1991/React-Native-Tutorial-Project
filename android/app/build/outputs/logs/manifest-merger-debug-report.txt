@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:1:1-32:12
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/6caa8937b1f4d1d63689bc4078c7320b/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/692c98544cf0003a025ffa1a0d2ba23e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/605e0c0f403cb03a363e7c905439180e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/a4d5ccd4e5d9b400376051bccd7895fe/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/0562a2efc13edccb64b4348b45819153/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/d39168fccd97611e5413f2e35d9de4f6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/5b036ff9e2dc531f22a3437009a6887e/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/ac5c7dcd64495d971c47318078397618/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/93f1c9f5a9a95a1bdb6c083ba1c98ba4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/638ceb73a044ccb6b8c6691fe367e06c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/173b487c127126399a31d5115c82df82/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/88fc6109ab26b7b7de3b2616b21b9e3f/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/6caa8937b1f4d1d63689bc4078c7320b/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/6caa8937b1f4d1d63689bc4078c7320b/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/6caa8937b1f4d1d63689bc4078c7320b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/6caa8937b1f4d1d63689bc4078c7320b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/692c98544cf0003a025ffa1a0d2ba23e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/692c98544cf0003a025ffa1a0d2ba23e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/605e0c0f403cb03a363e7c905439180e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/605e0c0f403cb03a363e7c905439180e/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/a4d5ccd4e5d9b400376051bccd7895fe/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/a4d5ccd4e5d9b400376051bccd7895fe/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/0562a2efc13edccb64b4348b45819153/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/0562a2efc13edccb64b4348b45819153/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/d39168fccd97611e5413f2e35d9de4f6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/d39168fccd97611e5413f2e35d9de4f6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/5b036ff9e2dc531f22a3437009a6887e/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/5b036ff9e2dc531f22a3437009a6887e/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/93f1c9f5a9a95a1bdb6c083ba1c98ba4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/93f1c9f5a9a95a1bdb6c083ba1c98ba4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/638ceb73a044ccb6b8c6691fe367e06c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/638ceb73a044ccb6b8c6691fe367e06c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/173b487c127126399a31d5115c82df82/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/173b487c127126399a31d5115c82df82/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/88fc6109ab26b7b7de3b2616b21b9e3f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/88fc6109ab26b7b7de3b2616b21b9e3f/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:9:5-11:41
+	android:targetSdkVersion
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:10:9-35
+		INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:13:5-30:19
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/6caa8937b1f4d1d63689bc4078c7320b/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/6caa8937b1f4d1d63689bc4078c7320b/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/692c98544cf0003a025ffa1a0d2ba23e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/692c98544cf0003a025ffa1a0d2ba23e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/605e0c0f403cb03a363e7c905439180e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/605e0c0f403cb03a363e7c905439180e/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/5b036ff9e2dc531f22a3437009a6887e/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/5b036ff9e2dc531f22a3437009a6887e/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/ac5c7dcd64495d971c47318078397618/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/Orindam/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/ac5c7dcd64495d971c47318078397618/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:16:7-39
+	android:icon
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:allowBackup
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:15:7-33
+	android:theme
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:14:7-38
+activity#com.nativelearning.MainActivity
+ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:19:7-28:18
+	android:label
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:21:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:23:9-51
+	android:configChanges
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:22:9-79
+	android:name
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:20:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:26:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:29:7-84
+	android:name
+		ADDED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:29:17-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/Orindam/Documents/native-learning/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
