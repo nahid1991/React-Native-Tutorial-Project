@@ -1,4 +1,0 @@
-#Tue Apr 17 11:35:19 BDT 2018
-base.0=/Users/Orindam/Documents/native-learning/android/app/build/intermediates/transforms/dexMerger/debug/0
-renamed.0=classes.dex
-path.0=classes.dex
