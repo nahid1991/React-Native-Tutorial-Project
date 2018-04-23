@@ -11,4 +11,5 @@ const RNRedux = () => (
         <App />
     </Provider>
 );
-AppRegistry.registerComponent('nativelearning', () => RNRedux);
+
+AppRegistry.registerComponent('rncourse', () => RNRedux);
