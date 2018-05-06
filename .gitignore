@@ -24,3 +24,5 @@ android/
 ios/
 
 \.DS_Store
+
+/functions/node_modules
